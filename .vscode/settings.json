@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/Users/akashmondal/Ai/backend/venv/bin/python",
+  "python-envs.pythonProjects": [],
+  "python.analysis.extraPaths": [
+    "./backend"
+  ]
+}
